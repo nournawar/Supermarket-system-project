@@ -1,0 +1,6 @@
+﻿Build started at 2:19 PM...
+1>------ Build started: Project: Projectfinal, Configuration: Debug x64 ------
+1>Source.cpp
+1>Projectfinal.vcxproj -> D:\Project1\Projectfinal\x64\Debug\Projectfinal.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 2:19 PM and took 01.640 seconds ==========
