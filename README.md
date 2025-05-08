@@ -1,5 +1,7 @@
 
 🛒 Supermarket Management System
+
+
 A C++-based Supermarket Management System. This project allows customers to sign up, log in, view products by category, manage their shopping cart, and proceed to checkout.
 
 🚀 Features
