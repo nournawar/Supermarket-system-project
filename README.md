@@ -16,7 +16,6 @@ View cart contents and total price
 Simple checkout functionality
 
 
-
 Backend implemented in C++
 
 🖥️ Technologies Used
