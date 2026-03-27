@@ -20,8 +20,5 @@ Backend implemented in C++
 
 🖥️ Technologies Used
 C++
-
-Object-Oriented Programming principles
-
 Visual Studio (Development Environment)
 
